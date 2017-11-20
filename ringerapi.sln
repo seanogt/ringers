@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ringerapi", "ringerapi\ringerapi.csproj", "{1EEE2609-E8AD-491F-830B-BDB59FB79E64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ringerapitests", "ringerapitests\ringerapitests.csproj", "{2821519B-84AA-4C85-8393-53BD5BFE2F4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{1EEE2609-E8AD-491F-830B-BDB59FB79E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EEE2609-E8AD-491F-830B-BDB59FB79E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EEE2609-E8AD-491F-830B-BDB59FB79E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2821519B-84AA-4C85-8393-53BD5BFE2F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2821519B-84AA-4C85-8393-53BD5BFE2F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2821519B-84AA-4C85-8393-53BD5BFE2F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2821519B-84AA-4C85-8393-53BD5BFE2F4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
